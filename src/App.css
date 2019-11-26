@@ -20,3 +20,143 @@
 .App-link {
   color: #09d3ac;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Kanit:800&display=swap');
+
+body {
+  background-color: #f0f3f6;
+}
+
+
+header>h1 {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 100px;
+  font-family: 'Kanit', sans-serif;
+  font-weight: 1500;
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+}
+
+.card {
+
+  padding-bottom: 10;
+  padding: 20 50 20;
+  margin-bottom: 100;
+  border-radius: 15px;
+
+
+}
+
+.section1 {
+  padding-bottom: 50px;
+}
+
+.card-title {
+
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  font-family: 'Kanit', sans-serif;
+  font-size: 30px;
+  color: black;
+
+}
+
+.btn-circle {
+  width: 100px;
+  height: 100px;
+  padding: 6px 0px;
+  margin-bottom: 100px;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 1.42857;
+  font-size: 60;
+
+
+}
+
+.ebtn {
+  width: 50px;
+  height: 50px;
+  padding: 6px 0px;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 1.42857;
+  /* font-weight: 600; */
+  font-size: 27;
+
+}
+
+.ename {
+
+  padding-left: 20px;
+}
+
+.ename h1 {
+
+  padding-top: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  /* color: whitesmoke; */
+  color: black;
+  font-weight: bold;
+
+
+}
+
+.ename h2 {
+
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  /* color: whitesmoke; */
+  color: black;
+
+}
+
+.btn-outline-danger {
+  width: 50px;
+  height: 50px;
+  padding: 6px 0px;
+  margin-bottom: 20px;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 1.42857;
+  font-size: 27;
+  margin-top: 45;
+}
+
+.btn-outline-info {
+  width: 50px;
+  height: 50px;
+  padding: 6px 0px;
+  margin-bottom: 0px;
+  border-radius: 50px;
+  text-align: center;
+  line-height: 1.42857;
+  /* font-size: 27; */
+  /* font-size: 2vmin; */
+
+  margin-top: 45;
+}
+
+.exercise-box {
+  margin-bottom: 20;
+  padding-bottom: 20;
+  /* background-color: #3b444b; */
+  background: white;
+  /* border-radius: 15px; */
+  /* border-style: solid; */
+  /* border-color: rgb(216, 216, 216); */
+  /* border-color: #5bc0de; */
+
+
+}
+
+.confirm {
+  margin-right: 20;
+}
