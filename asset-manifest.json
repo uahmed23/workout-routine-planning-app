@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/workout-routine-planning-app/static/css/main.2be0cb4a.chunk.css",
-    "main.js": "/workout-routine-planning-app/static/js/main.d6932710.chunk.js",
-    "main.js.map": "/workout-routine-planning-app/static/js/main.d6932710.chunk.js.map",
+    "main.css": "/workout-routine-planning-app/static/css/main.56b6b110.chunk.css",
+    "main.js": "/workout-routine-planning-app/static/js/main.4a29dc1e.chunk.js",
+    "main.js.map": "/workout-routine-planning-app/static/js/main.4a29dc1e.chunk.js.map",
     "runtime-main.js": "/workout-routine-planning-app/static/js/runtime-main.1c593353.js",
     "runtime-main.js.map": "/workout-routine-planning-app/static/js/runtime-main.1c593353.js.map",
     "static/js/2.b6d0a128.chunk.js": "/workout-routine-planning-app/static/js/2.b6d0a128.chunk.js",
     "static/js/2.b6d0a128.chunk.js.map": "/workout-routine-planning-app/static/js/2.b6d0a128.chunk.js.map",
     "index.html": "/workout-routine-planning-app/index.html",
-    "precache-manifest.506d01750c51b23e89cfb1b20eeffa62.js": "/workout-routine-planning-app/precache-manifest.506d01750c51b23e89cfb1b20eeffa62.js",
+    "precache-manifest.d03ca73d4929e00fccb1fbbceb094ed0.js": "/workout-routine-planning-app/precache-manifest.d03ca73d4929e00fccb1fbbceb094ed0.js",
     "service-worker.js": "/workout-routine-planning-app/service-worker.js",
-    "static/css/main.2be0cb4a.chunk.css.map": "/workout-routine-planning-app/static/css/main.2be0cb4a.chunk.css.map",
+    "static/css/main.56b6b110.chunk.css.map": "/workout-routine-planning-app/static/css/main.56b6b110.chunk.css.map",
     "static/media/logo.svg": "/workout-routine-planning-app/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1c593353.js",
     "static/js/2.b6d0a128.chunk.js",
-    "static/css/main.2be0cb4a.chunk.css",
-    "static/js/main.d6932710.chunk.js"
+    "static/css/main.56b6b110.chunk.css",
+    "static/js/main.4a29dc1e.chunk.js"
   ]
 }
