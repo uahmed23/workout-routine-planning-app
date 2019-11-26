@@ -16,23 +16,28 @@ function Exercise(props) {
                     <h2>Reps: {props.exercise.reps}</h2>
                 </div>
             </div>
-            <div className="col-xs-6 col-sm-6 col-md-3 col-lg-2  ">
-                <button
-                    type="button"
-                    className="btn btn-outline-info btn"
-                    name={props.exercise.id}
-                    id={props.day.id}
-                    onClick={props.editExercise}
-                >✎</button>
+            <div className="col-xs-6 col-sm-6 col-md-3 col-lg-2 ">
+                <div className="ebtns">
+                    <button
+                        type="button"
+                        className="btn btn-outline-info btn"
+                        name={props.exercise.id}
+                        id={props.day.id}
+                        onClick={props.editExercise}
+                    >✎</button>
+                </div>
             </div>
-            <div className="col-xs-6 col-sm-6 col-md-3 col-lg-2">
-                <button
-                    type="button"
-                    className="btn btn-outline-danger btn"
-                    name={props.exercise.id}
-                    id={props.day.id}
-                    onClick={props.deleteExercise}
-                >-</button>
+            <div className="col-xs-6 col-sm-6 col-md-3 col-lg-2 ">
+                <div className="ebtns">
+
+                    <button
+                        type="button"
+                        className="btn btn-outline-danger btn"
+                        name={props.exercise.id}
+                        id={props.day.id}
+                        onClick={props.deleteExercise}
+                    >-</button>
+                </div>
             </div>
         </div>
 
