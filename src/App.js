@@ -7,7 +7,11 @@ import Exercise from "./components/Exercise"
 import logo from './logo.svg';
 import './App.css';
 const $ = window.$;
+// const firebase = require("firebase")
+// require("firebase/firestore")
+// db.collection('workouts').get().then((snapshot) => {
 
+// })
 
 class App extends Component {
 

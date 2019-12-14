@@ -54,6 +54,36 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
   </script>
+  <!-- firebase -->
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/7.5.2/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.5.2/firebase-analytics.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyDfGz7iALf1PvCchIbux102cGyW_5RPq7c",
+      authDomain: "workout-app-data.firebaseapp.com",
+      databaseURL: "https://workout-app-data.firebaseio.com",
+      projectId: "workout-app-data",
+      storageBucket: "workout-app-data.appspot.com",
+      messagingSenderId: "448886596722",
+      appId: "1:448886596722:web:180b1be1284e3898bcceeb",
+      measurementId: "G-5T40QTRP6V"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    firebase.analytics();
+    const db = firebase.firestore()
+    db.settings({
+      timestampsInSnapshots: true
+    })
+  </script>
+
 </body>
 
 </html>

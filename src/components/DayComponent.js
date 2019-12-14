@@ -50,7 +50,7 @@ function DayComponent(props) {
                         </div> */}
                     </div>
 
-                    <h5 className="card-title">{props.day.title} {props.day.id}</h5>
+                    <h5 className="card-title">{props.day.title}</h5>
 
                     <div>
                         {props.exerciseComponent}

@@ -10,7 +10,7 @@ function Exercise(props) {
             <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
                 <div className="ename text-center">
-                    <h1>{props.exercise.title} {props.exercise.id}: </h1>
+                    <h1>{props.exercise.title}: </h1>
                     <h2>Weight: {props.exercise.weight}</h2>
                     <h2>Sets: {props.exercise.sets}</h2>
                     <h2>Reps: {props.exercise.reps}</h2>
