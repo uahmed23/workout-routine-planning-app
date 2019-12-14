@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fffdf97d05005599c2059a2c938cdd0d",
+    "revision": "d8b3d5d9f1ebceb233a1e40c3e8d08a3",
     "url": "/workout-routine-planning-app/index.html"
   },
   {
-    "revision": "b47aa2d4d9cc51f49894",
+    "revision": "abae2680b0e70da77e7e",
     "url": "/workout-routine-planning-app/static/css/main.56b6b110.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/workout-routine-planning-app/static/js/2.b6d0a128.chunk.js"
   },
   {
-    "revision": "b47aa2d4d9cc51f49894",
-    "url": "/workout-routine-planning-app/static/js/main.4a29dc1e.chunk.js"
+    "revision": "abae2680b0e70da77e7e",
+    "url": "/workout-routine-planning-app/static/js/main.70f82ded.chunk.js"
   },
   {
     "revision": "6a0d2137732d53e8fda5",
